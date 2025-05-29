@@ -1,7 +1,0 @@
-Package: myrpc-server
-Version: 1.0
-Section: base
-Priority: optional
-Architecture: amd64
-Maintainer: Your Name <you@example.com>
-Description: myRPC server for remote command execution
