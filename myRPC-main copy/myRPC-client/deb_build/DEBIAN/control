@@ -1,0 +1,7 @@
+Package: myrpc-client
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <you@example.com>
+Description: myRPC client for sending remote bash commands
